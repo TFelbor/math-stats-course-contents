@@ -1,7 +1,5 @@
 # Comparison of Gradient-Free Optimization Algorithms: PSO vs. CBO
 
-**Advanced Maths & Stats | Université Côte d’Azur**
-
 This repository contains the mathematical implementation and comparative analysis of gradient-free optimization techniques. The project focuses on the trade-offs between numerical precision and computational efficiency when navigating non-convex cost landscapes.
 
 ---
